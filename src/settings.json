@@ -1,0 +1,43 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "GeneriCon 2024 is on June 7 – 9 in Denver.",
+        "linkText": "Get your ticket"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "desiredOutcome": "Luxury card",
+        "painPoint": "Expensive card",
+        "subtitle": "Say goodbye to costly card expenses and elevate your experience with our luxury card. Discover what makes us unique in the industry with top-notch car-like outcomes.",
+        "title": "Enhance Your Online Business with Our Data Solutions",
+        "uniqueFeature": "Great car"
+      }
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive the Future Forward",
+  "subtitle": "Experience Innovation on Wheels with Our Premium Car Rentals"
+}
